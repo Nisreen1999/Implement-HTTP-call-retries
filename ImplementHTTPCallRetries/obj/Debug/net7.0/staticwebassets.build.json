@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TBlQPVQ+rWrp/cJxNU/0ONSUYYdG6pNn/yPHLAhpDFA=",
+  "Source": "ImplementHTTPCallRetries",
+  "BasePath": "_content/ImplementHTTPCallRetries",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
